@@ -21,4 +21,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\raphael.lopes\source\repos\FilmesApi\FilmesApi\Controllers\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\raphael.lopes\source\repos\FilmesApi\FilmesApi\Controllers\.editorconfig" />
+  </ItemGroup>
+
 </Project>
